@@ -1,6 +1,7 @@
 # source function 
 ```{r}
 library(WildfireProject)
+library(tidyverse)
 library(readxl)
 library(purrr)
 library(ggplot2)
