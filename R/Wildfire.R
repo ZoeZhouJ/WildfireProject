@@ -17,7 +17,7 @@
 #'
 #' @param T Numeric, annual mean temperature in Celsius.
 #' @param p Numeric, annual mean precipitation in mm.
-#' @param h Numeric, annual mean humidity in percent (%).
+#' @param h Numeric, annual mean humidity in percent (\%).
 #' @return The \code{risk_score} function returns a numeric risk score based on the input parameters.
 #'
 #' The \code{risk_level} function returns a character string indicating the risk level:

@@ -8,9 +8,7 @@
 #'   \item{year}{Year of the data collection.}
 #'   \item{t}{Mean temperature (°C).}
 #'   \item{p}{Mean precipitation (mm).}
-#'   \item{h}{Mean humidity (%).}
+#'   \item{h}{Mean humidity (\%).}
 #' }
 #' @source Estimates based on real data available at different internet sources.
 "wildfire_data"
-
-

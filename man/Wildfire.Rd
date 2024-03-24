@@ -12,7 +12,7 @@ risk_score(T, p, h) risk_level(risk_score)
 
 \item{p}{Numeric, annual mean precipitation in mm.}
 
-\item{h}{Numeric, annual mean humidity in percent (%).}
+\item{h}{Numeric, annual mean humidity in percent (\%).}
 }
 \value{
 The \code{risk_score} function returns a numeric risk score based on the input parameters.

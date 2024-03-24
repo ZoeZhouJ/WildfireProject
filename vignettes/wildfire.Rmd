@@ -1,7 +1,6 @@
 # source function 
 ```{r}
-source("~/Bren/ESM262/Assignments/project/wildfire.R")
-library(tidyverse)
+library(WildfireProject)
 library(readxl)
 library(purrr)
 library(ggplot2)
@@ -9,7 +8,8 @@ library(ggplot2)
 
 # Read Data
 ```{r}
-index<- read_xls("~/Bren/ESM262/Assignments/project/wildfire_data.xls")
+# loaded with library above
+#index<- read_xls("../data/wildfire_data.xls")
 index
 ```
 # Demonstration of use for wildfire function with For loop
